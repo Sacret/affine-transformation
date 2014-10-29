@@ -1,0 +1,8 @@
+E:\C# & Delphi\Графика\bin\Debug\Графика.exe
+E:\C# & Delphi\Графика\bin\Debug\Графика.pdb
+E:\C# & Delphi\Графика\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\Графика\obj\Debug\Графика.Form1.resources
+E:\C# & Delphi\Графика\obj\Debug\Графика.Properties.Resources.resources
+E:\C# & Delphi\Графика\obj\Debug\Графика.csproj.GenerateResource.Cache
+E:\C# & Delphi\Графика\obj\Debug\Графика.exe
+E:\C# & Delphi\Графика\obj\Debug\Графика.pdb
